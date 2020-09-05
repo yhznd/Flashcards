@@ -1,2 +1,10 @@
+NL
+Nederland
+FR
 France
-Netherlands
+IT
+Italy
+GB
+Great Britain
+ES
+Spain
